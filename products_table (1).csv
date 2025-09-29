@@ -1,0 +1,21 @@
+product_id,product_name,brand,product_category,manufacturing_city,origin_country,size,color,SKU,base_price,weight_lb,launch_date,discontinued
+140007,Portable Charger,AeroPeak,Electronics,Adamhaven,Mexico,One Size,Space Gray,11721893,174.23,2.61,2023-07-21,False
+154422,Classic Cap,AeroPeak,Accessories,Dunnbury,Vietnam,One Size,Black,85375094,29.53,0.94,2025-05-28,False
+154907,Heather Tee,UrbanOak,Apparel,Hahnberg,Germany,S,White,10224217,58.72,0.64,2023-09-22,False
+191421,All-Weather Jacket,AeroPeak,Apparel,Irwinville,Vietnam,S,White,12850244,23.35,1.45,2023-09-01,False
+212931,Wireless Earbuds,AeroPeak,Electronics,Comptonshire,Mexico,One Size,White,98325218,498.27,0.28,2025-07-30,False
+241618,Vitamin C Serum,NorthBay,Beauty,Lake Karachester,Germany,30ml,N/A,94224598,39.12,4.54,2024-09-23,False
+267418,Leather Belt,Hearth & Co.,Accessories,Robertmouth,Germany,One Size,Charcoal,18623019,60.41,4.59,2023-03-28,False
+379501,Camping Backpack,Waveform,Outdoor,Sabrinachester,USA,XL,Flame,60267442,226.08,3.29,2023-12-07,False
+380679,Performance Leggings,Hearth & Co.,Apparel,Gonzalezmouth,Vietnam,XS,Black,52340186,90.91,2.22,2025-02-28,False
+448334,Chef Knife,NorthBay,Kitchen,Randallborough,USA,Medium,Cream,66419404,140.14,2.99,2024-05-27,False
+453597,Mineral Sunscreen,AeroPeak,Beauty,South Matthewmouth,Mexico,30ml,N/A,62245494,53.84,2.23,2023-02-02,False
+457352,Cast Iron Skillet,UrbanOak,Kitchen,Nguyenfort,USA,Large,Steel,21127389,106.96,0.83,2025-05-14,False
+497540,Aroma Candle,TrailForge,Home,Maldonadoburgh,India,Small,Sage,76408178,136.25,0.73,2025-03-30,False
+527023,Insulated Bottle,TrailForge,Outdoor,South Mark,India,L,Forest,63450619,266.74,0.86,2025-06-16,False
+662248,Throw Blanket,UrbanOak,Home,Weissberg,Vietnam,Small,Gray,81991707,146.95,0.81,2024-12-04,False
+688211,Everyday Hoodie,TrailForge,Apparel,Deannamouth,China,XS,Sand,32387747,59.2,1.54,2023-12-21,False
+689633,Ceramic Planter,NorthBay,Home,Sotoborough,Canada,Small,Charcoal,35927774,22.94,1.15,2024-06-07,False
+906309,Trail Running Shoes,Waveform,Outdoor,Lake Robertview,Germany,S,Charcoal,56098710,101.07,0.49,2023-05-08,False
+979234,Smart Speaker,Waveform,Electronics,Rodneyfurt,Germany,One Size,White,62030257,433.48,0.94,2025-01-27,False
+993477,Coffee Grinder,UrbanOak,Kitchen,Maureenmouth,USA,Large,Cream,95240756,81.72,0.94,2025-03-24,False
